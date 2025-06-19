@@ -1,0 +1,8 @@
+1. Base.txt
+
+#include <iostream>
+
+int main(){
+	int a = 0;
+	int b = 0;
+}
